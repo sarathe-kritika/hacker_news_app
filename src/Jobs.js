@@ -2,7 +2,7 @@ import React, { Component } from "react";
 
 class Jobs extends Component {
   render() {
-     return <h1>Placeholder for Jobs</h1>
+     return <h3>Placeholder for Jobs</h3>
     }
 }
 export default Jobs 

@@ -23,7 +23,7 @@ class Comments extends React.Component {
         this.setState({commentsData});
         this.setState({labels})
         this.setState({data1})
-        window.alert("Yooo"+ JSON.stringify(commentsData))
+       // window.alert("Yooo"+ JSON.stringify(commentsData))
       })
   }
 
