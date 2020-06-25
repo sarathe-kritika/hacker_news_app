@@ -23,9 +23,22 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+.nav-color{
+  background-color: #ff8243 !important; 
+}
 
 .App-link {
   color: #61dafb;
+}
+.submitForm {
+  margin-top: 20px;
+}
+#customers th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #ff8243;
+  color: white;
 }
 
 @keyframes App-logo-spin {
