@@ -79,7 +79,7 @@ class Comments extends React.Component {
           options={{
             title:{
               display:true,
-              text:'Average Rainfall per month',
+              text:'',
               fontSize:20
             },
             legend:{

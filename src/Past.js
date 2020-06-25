@@ -78,7 +78,7 @@ class Past extends React.Component {
           options={{
             title:{
               display:true,
-              text:'Commet Rainfall per Vote',
+              text:'',
               fontSize:20
             },
             legend:{
